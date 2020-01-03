@@ -1,16 +1,8 @@
 # Counterfactual Story Rewrite Based on Graph Transformer
+------
+
 
 ## Requires
-
-------
-Preprocessing:
-
-+ jdk 1.8
-+ stanford-corenlp (<http://nlp.stanford.edu/software/stanford-corenlp-full-2018-02-27.zip>)
-
-------
-Require:
-
 + python>=3.6.2
 + Tensorflow-gpu==1.14.0
 + tensorflow-probability==0.7.0
@@ -32,6 +24,9 @@ Require:
 ------
 
 ## Preprocessing
++ jdk 1.8
++ stanford-corenlp (<http://nlp.stanford.edu/software/stanford-corenlp-full-2018-02-27.zip>)
+------
 
 ## Training
   + EXP1: python main_babymodel_1.1_lr.py
@@ -41,7 +36,7 @@ Require:
   + EXP5: python main_xlnet.py
   + EXP6: python main_babymodel_1.1_lr_SGT.py
   + EXP7: python main_trans512_auxiliary_1_05_SGT.py
-
+------
 ## evaling
   + EXP1: bash cmd_eval_babymodel1.1_lr.sh
   + EXP2: bash cmd_eval_transformer512_auxiliary_loss_1_00.sh
@@ -50,13 +45,13 @@ Require:
   + EXP5: bash cmd_eval_xlnet.sh
   + EXP6: bash cmd_eval_babymodel1.1_lr_SGT.sh
   + EXP7: bash cmd_eval_transformer512_auxiliary_loss_1_05_SGT.sh
-
+------
 ## Result
-
+------
 ## TODO
  + check all the traning code again and clean the code
  + preprocessing for data
-
+------
 ## Acknowledge
  + [Counterfactual-StoryRW](https://github.com/qkaren/Counterfactual-StoryRW "Counterfactual-StoryRW")
  + [Texar-tf](https://github.com/asyml/texar "Texar-tf")
