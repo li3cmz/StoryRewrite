@@ -13,6 +13,7 @@ Require:
 
 + python>=3.6.2
 + Tensorflow-gpu==1.14.0
++ tensorflow-probability==0.7.0
 + Texar-0.2.4 (this version has been included in this repository)
 + xlnet_cased_L-12_H-768_A-12
 + torch-1.3.0
