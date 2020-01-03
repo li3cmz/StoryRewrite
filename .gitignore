@@ -4,3 +4,5 @@ bert_score_cache/
 data/
 *out*
 xlnet_cased_L-12_H-768_A-12/
+Evaluation_model/StoryTask/BERT/pytorch-pretrained-BERT-master/
+Evaluation_model/StoryTask/en_core_web_md-2.0.0.tar.gz

@@ -48,7 +48,7 @@
 ------
 ## Result
 **Results in paper "Counterfactual Story Reasoning and Generation"**
-![recover](./assets/Recover.png)
+![rerun](./assets/Re-run.png)
 **Results of Ours**
 ![EXP](./assets/EXP.png)
 ------
