@@ -50,8 +50,11 @@ Require:
   + EXP6: bash cmd_eval_babymodel1.1_lr_SGT.sh
   + EXP7: bash cmd_eval_transformer512_auxiliary_loss_1_05_SGT.sh
 
+## Result
+
 ## TODO
  + check all the traning code again and clean the code
+ + preprocessing for data
 
 ## Acknowledge
  + [Counterfactual-StoryRW](https://github.com/qkaren/Counterfactual-StoryRW "Counterfactual-StoryRW")
