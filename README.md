@@ -1,5 +1,5 @@
 # Counterfactual Story Rewrite Based on Graph Transformer
-------
+
 
 
 ## Requires
@@ -47,6 +47,7 @@
   + EXP7: bash cmd_eval_transformer512_auxiliary_loss_1_05_SGT.sh
 ------
 ## Result
+![EXP](./assets/EXP.png)
 ------
 ## TODO
  + check all the traning code again and clean the code
