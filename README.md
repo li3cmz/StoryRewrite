@@ -47,6 +47,9 @@
   + EXP7: bash cmd_eval_transformer512_auxiliary_loss_1_05_SGT.sh
 ------
 ## Result
+**Results in paper "Counterfactual Story Reasoning and Generation"**
+![recover](./assets/Recover.png)
+**Results of Ours**
 ![EXP](./assets/EXP.png)
 ------
 ## TODO
