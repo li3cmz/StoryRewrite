@@ -1,7 +1,6 @@
 # Counterfactual Story Rewrite Based on Graph Transformer
 
 
-第一次commit由于集群global config设置有误，导致提交的账号不是自己的~
 ## Requires
 + python>=3.6.2
 + Tensorflow-gpu==1.14.0
